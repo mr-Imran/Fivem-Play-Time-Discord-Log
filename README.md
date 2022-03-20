@@ -11,3 +11,6 @@ more info at https://discord.gg/s66nhMGQvm
 Source : Forgot]
 
 <img src="https://profile-counter.glitch.me/mr-Imran/count.svg" />
+
+
+![alt text](https://cdn.discordapp.com/attachments/932878642810335263/955023723122008064/playtime.PNG)
