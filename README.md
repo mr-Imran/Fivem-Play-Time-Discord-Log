@@ -14,3 +14,10 @@ Source : Forgot]
 
 
 ![alt text](https://cdn.discordapp.com/attachments/932878642810335263/955023723122008064/playtime.PNG)
+
+
+<b>Instalation Process </b>
+
+- Download
+- Open Config.lua
+- input in server.cfg
