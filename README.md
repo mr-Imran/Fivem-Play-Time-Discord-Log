@@ -9,3 +9,5 @@ more info at https://discord.gg/s66nhMGQvm
 [ modified 
 
 Source : Forgot]
+
+<img src="https://profile-counter.glitch.me/mr-Imran/count.svg" />
